@@ -31,7 +31,7 @@ salesperson: We do….but we cannot do that to all wheels. If you can bring them
 customer: I have a 2016 Subaru Sti  and I have 2 rims that have curb damage. I would like to get them repaired. When is the soonest I can come by.
 salesperson: Today
 customer: Do you repair rims on the weekend
-salesperson: Yes, Saturdays only up until 2pm
+salesperson: Yes, Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM.
 customer: Can I come by this Saturday
 salesperson: Yes, be here by 8:30 am for the same day service.
 customer: Ok, thanks.
@@ -113,7 +113,7 @@ What’s the cost and time frame available..
 salesperson: $800 would be the total and the time frame would be 2-3 days.
 
 customer: Are you guys open tomorrow if so I would like to stop by and repair one rim on the front passenger side
-salesperson: We are open Monday- Friday 8-6. You can bring in that wheel anytime.
+salesperson: We are open Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM. You can bring in that wheel anytime.
 
 customer: Hello , i am looking to see if my rim is repairable . The Rim spec is discontinued
 salesperson: 
@@ -135,13 +135,13 @@ customer: How much would it cose to fix the wheels that are bent on a 2014 bmw 3
 salesperson: It would be $125 dollars per rim. The total for both rims would be $250 dollars.
 
 customer: Is it possible can I get an appointment to fix a curb rash rim for a 2021 Acura TLX?
-salesperson: We do not do appointments but you are more than welcome to stop by Monday-Friday 8-6.
+salesperson: We do not do appointments but you are more than welcome to stop by Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM.
 
 customer: I would like an estimate on a rim repair on 1 rim that has curb damage.
 salesperson: What type of car is it for and what is the color?
 
 customer: Hi, do you guys do autoflex or powdercoating in gloss black? I have 20” rims on my car that i would like to get done. How much and what is availability like?
-salesperson: We do powder coat. The cost would be $800 for all four rims and we are open Monday to Friday 8AM until 6PM.
+salesperson: We do powder coat. The cost would be $800 for all four rims and we are open Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM.
 
 customer: I would like to paint all of my rims do I have to make an appointment?
 salesperson: You do not have to make an appointment. When you bring the car to us we will take a look and give you a price on the spot.
@@ -176,17 +176,17 @@ customer: Alfa Romeo Giulia. I would like it painted glossy black and they have 
 salesperson: $135 dollars per wheel. To do all four it would be $540 dollars.
 
 customer: I have a 2018 Charger SRT, I bent the rim badly. Please text me so I can set appointment.
-salesperson: We do not do appointments. You can stop by any time from 8 AM until 6 PM Monday to Friday and we will take care of you.
+salesperson: We do not do appointments. You can stop by any time Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM. We will take care of you.
 
 customer: I am looking to fix 3 rims for a Range Rover that have some scratches. Please let me know how much to fix it and when can I bring it in for service.
-salesperson: For all three it would be $525 dollars total. We do first come first serve. We are open Monday to Friday from 8 AM until 6 PM. I would recommend bringing the car in at 8 AM and we would need 1 or 2 days with the car.
+salesperson: For all three it would be $525 dollars total. We do first come first serve. We are open Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM. I would recommend bringing the car in at 8 AM and we would need 1 or 2 days with the car.
 
 customer: I am looking to fix 1 or 2 bent rims on my 2017 jeep grand cherokee and I was wondering the price and when can I come in to repair them.
-salesperson: The price for a bent rim is $125 dollars. So for two it would be $250. We do first come first serve and are open Monday to Friday 8AM until 6PM.. I recommend coming at 8 A.M. and giving us a full day to work on the vehicle.
+salesperson: The price for a bent rim is $125 dollars. So for two it would be $250. We do first come first serve and are open Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM. I recommend coming at 8 A.M. and giving us a full day to work on the vehicle.
 
 customer: 2019 FORD FUSION 18 INCHES WHEELS
 FRONT DRIVER SIDE BENT , NEEDS REPAIR AND POSSIBLY POLISH ALL WHEELS SAME ORIGINAL COLOR
-salesperson: Please bring it in as soon as possible so we can take a look. We are open Monday-Friday from 8-6. We can discuss pricing once you arrive with the wheel.
+salesperson: Please bring it in as soon as possible so we can take a look. We are open Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM. We can discuss pricing once you arrive with the wheel.
 
 customer: How much cost to weld a rim ?
 salesperson: $125 dollars for one crack and an additional $25 for any other crack we find.
