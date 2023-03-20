@@ -1,251 +1,251 @@
-We are located 1605B East 233rd St Bronx NY 10466.
-Time zone in New York, NY (GMT-4)
+warriors: We are located 1605B East 233rd St Bronx NY 10466.
+warriors: Time zone in New York, NY (GMT-4)
 
-salesperson: we only do same day if you bring in the tire 8 AM. Otherwise it may take 2 days.
-salesperson: we do not provide a car to go home.
+warriors: we only do same day if you bring in the tire 8 AM. Otherwise it may take 2 days.
+warriors: we do not provide a car to go home.
 
 customer: Hello, I am interested in customizing the stock rims on my 2018 Ford Focus SE hatchback and would like to know if it is possible and what are the rates?
-salesperson: It’s hard to give a price to customize rims without seeing the wheel and talking about the colors. If you bring it in we can give you an estimate.
+warriors: It’s hard to give a price to customize rims without seeing the wheel and talking about the colors. If you bring it in we can give you an estimate.
 
 customer: I have curbside rashes on my 2018 Honda Accord touring rims. I’d love to bring it and get them refinished. How much would it cost?
-salesperson:It would cost $150 dollars each wheel. That is a full reconditioned wheel.
+warriors:It would cost $150 dollars each wheel. That is a full reconditioned wheel.
 
 customer: Hi I have a 20 inch Rohanna Wheel that is finished in black. It has some minor curb rash and spoke scratches. What would the approximate cost for refurbish be?
-salesperson: Approximately $175 dollars for each rim. It is better to bring it in for a more accurate estimate.
+warriors: Approximately $175 dollars for each rim. It is better to bring it in for a more accurate estimate.
 
 
 customer: Do you fix rims that are scratched because of damage from a curb?
-salesperson: yes we fix scratched rims damaged from curbs.
+warriors: yes we fix scratched rims damaged from curbs.
 
 customer: I am looking to paint the rims on a Mercedez CLK 350 year 2007. Can you give me a price for the painting?
-salesperson: It depends on the color you want them painted.
+warriors: It depends on the color you want them painted.
 
 customer: What's your price for painting wheels glossy black?
-salesperson: What size and what type of wheel?
-salesperson: If it’s one piece it is $150 dollars each.
+warriors: What size and what type of wheel?
+warriors: If it’s one piece it is $150 dollars each.
 
 
 customer: I would like to know about how much you charge to fix two cub rashes rims?
-salesperson: We need to really see it but I can tell you roughly around $150 dollars. That’s making the wheel look like factory.
+warriors: We need to really see it but I can tell you roughly around $150 dollars. That’s making the wheel look like factory.
 
 customer: Looking to fix or replace a 20 inch rim.
-salesperson: I can try and fix it for you if you bring it down so we can see it.
+warriors: I can try and fix it for you if you bring it down so we can see it.
 
 customer: Im building an offroad porsche and my FUCHS wheels need to be machined to increase offset and clear my calipers. do you offer this service?
-salesperson: We do….but we cannot do that to all wheels. If you can bring them down so we can look at them, that would be best.
+warriors: We do….but we cannot do that to all wheels. If you can bring them down so we can look at them, that would be best.
 
 customer: I have a 2016 Subaru Sti  and I have 2 rims that have curb damage. I would like to get them repaired. When is the soonest I can come by.
-salesperson: Today
+warriors: Today
 customer: Do you repair rims on the weekend
-salesperson: Yes, Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM.
+warriors: Yes, Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM.
 customer: Can I come by this Saturday
-salesperson: Yes, be here by 8:30 am for the same day service.
+warriors: Yes, be here by 8:30 am for the same day service.
 customer: Ok, thanks.
-salesperson: I will see you Saturday morning
+warriors: I will see you Saturday morning
 
 customer: I called to see if it were possible to have a bent rim fixed tonight. 
 If I need to make an appointment, I would like to for Saturday morning at 9:30 AM. Thanks.
-salesperson: Come on in tomorrow morning and we will take care of it
-salesperson: 1605B East 233rd St Bronx NY 10466. 347-843-7008. If we don’t pickup I apologize, it’s very noisy in here with the machines all going. But, please come on down.
+warriors: Come on in tomorrow morning and we will take care of it
+warriors: 1605B East 233rd St Bronx NY 10466. 347-843-7008. If we don’t pickup I apologize, it’s very noisy in here with the machines all going. But, please come on down.
 
 customer: I need my rims done. Remove scrapes, painted and powder coated. They are 21" tires. 2017 Mercedes Benz AMG GLS 63. John referred me to your business.
-salesperson: Are you available to bring the car in so that we can look at the wheels and price you correctly?
+warriors: Are you available to bring the car in so that we can look at the wheels and price you correctly?
 
 customer: I would like an estimate for repair on a cracked rim on a 2007 Hyundai sonata? I was referred to you by someone at Mavis Tire.
-salesperson: That would cost you $125 dollars to have it repaird.
+warriors: That would cost you $125 dollars to have it repaird.
 
 customer: How much do you charge for repair of curb rash and how long does it take?
-salesperson: It normally takes a day or two depends on the severity of the wheel. Estimate $150
+warriors: It normally takes a day or two depends on the severity of the wheel. Estimate $150
 
 customer: I need two cracked rims repaired.
-salesperson: We can do that for you. We repair and paint rims. Bring it down to the shop and let us take a look at it to give you an estimate.
+warriors: We can do that for you. We repair and paint rims. Bring it down to the shop and let us take a look at it to give you an estimate.
 
 customer: Hi, do I have to make an appointment or is it a walk in service?
-salesperson: You can walk in when we open and we will have the car back to you on the same day. We open at 8am.
+warriors: You can walk in when we open and we will have the car back to you on the same day. We open at 8am.
 
 customer: How much do you charge to paint rims , I have Nissan aluminum rims i wand to have them painted to a high gloss silver.
-salesperson: $150 dollars each wheel.
+warriors: $150 dollars each wheel.
 
 customer: Hi I wanted to know how much will it be to get my rims repaired and repainted.
-salesperson: That can cost anywhere around $150 to $175 dollars depending on color and the severity of the rims.
+warriors: That can cost anywhere around $150 to $175 dollars depending on color and the severity of the rims.
 
 customer: i have  slight crack on my rim, I want to get it welded. How much will that be just for one rim. Can I come in friday morning?
-salesperson: Depending on the severity, we can fix it for you. The cost depends on the work involved. Stop by and let us take a look at it.
+warriors: Depending on the severity, we can fix it for you. The cost depends on the work involved. Stop by and let us take a look at it.
 
 customer: How much to fix a curbed alloy rim
-salesperson: Depends on the severity of the rim. It can be approximately $150.
+warriors: Depends on the severity of the rim. It can be approximately $150.
 customer: Thanks! Do you have a mobile unit that goes to peoples houses?
-salesperson: Unfortunately not
+warriors: Unfortunately not
 
 customer: Hi I’m interested in repairing my rims from some curb damage. The car is a Volvo S60 T6 and the rim specs are -Aluminum Rim Sleipner 8 X 18in - Volvo
-salesperson: Yes we can repair those rims. Bring them in for an estimate.
+warriors: Yes we can repair those rims. Bring them in for an estimate.
 
 customer: My rim was bent on the outside but cracked in the inside can you guys fix it?
-salesperson: yes we can fix it. Bring them in for an estimate.
+warriors: yes we can fix it. Bring them in for an estimate.
 
 customer: Can you give me an estimate on fixing a slightly bent 18” Aluminum rim?
-salesperson: That would be approximate $100 dollars.
+warriors: That would be approximate $100 dollars.
 
 customer: How much does it cost to fix curb rashes. Just for 1 wheel? and For a set of 4?
-salesperson: The price depends on the severity of the wheel and also the color of the paint.
+warriors: The price depends on the severity of the wheel and also the color of the paint.
 
 customer: I need help with polishing tires.
-salesperson: Polishing tires or rims? We can polish your rims.
+warriors: Polishing tires or rims? We can polish your rims.
 
 customer: Could you give me an estimate how much it would cost to repair curb rash on an alloy wheel of my Porshce Taycan?
-salesperson: To fix an allow wheel on Porsche Taycan would cost $175 dollars.
+warriors: To fix an allow wheel on Porsche Taycan would cost $175 dollars.
 
 customer: Hi I have a 2022 Acura MDX vehicle. The passenger front wheel has curb rash and needs repair. How much would it cost?
-salesperson: It’s $150 dollars to re-do the entire wheel.
+warriors: It’s $150 dollars to re-do the entire wheel.
 
 customer: Hello, i have a lot of curb rash on Honda Civic 2017 and wanted to get a quote for 4 rims. Thank you
-salesperson: To recondition all four rims, it would cost you $150 dollars a wheel which would come out to $600 dollars in total.
+warriors: To recondition all four rims, it would cost you $150 dollars a wheel which would come out to $600 dollars in total.
 
 customer: I would like to know the pricing for Black powder painting on 20 inch factory rims for a 2021 Suburban. 
-salesperson: Per rim we charge $175 for black powder coating on a 2021 Suburban so the total would be $700.
+warriors: Per rim we charge $175 for black powder coating on a 2021 Suburban so the total would be $700.
 
 customer: I need 2 rims repaired.
-salesperson: What car model are those rims from and what color would you like to paint them?
+warriors: What car model are those rims from and what color would you like to paint them?
 
 customer: How much would it cost to powder coat my wheels for a 2020 Hyundai Elantra sedan Matte Black?
-salesperson: I spoke with my manager and it is $500 total at $125 per rim.
+warriors: I spoke with my manager and it is $500 total at $125 per rim.
 
 customer: I have a 2017 Infiniti QX-50 and while a relative was parking she had the wheels rub against the curb leaving multiple scratches on both passenger side wheels. Is it possible for this to be fixed and if so what is an estimate?
 
-salesperson: Roughly about 150-175 a wheel. Once we diagnose the wheels we can give you a more accurate price.
+warriors: Roughly about 150-175 a wheel. Once we diagnose the wheels we can give you a more accurate price.
 
 customer: Looking to restore the 22” inch wheels on my Escalade..
 What’s the cost and time frame available..
-salesperson: $800 would be the total and the time frame would be 2-3 days.
+warriors: $800 would be the total and the time frame would be 2-3 days.
 
 customer: Are you guys open tomorrow if so I would like to stop by and repair one rim on the front passenger side
-salesperson: We are open Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM. You can bring in that wheel anytime.
+warriors: We are open Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM. You can bring in that wheel anytime.
 
 customer: Hello , i am looking to see if my rim is repairable . The Rim spec is discontinued
-salesperson: 
+warriors: 
 
 customer: single rim porsche 911 curb rash
 What is the turn around time.  i dont have a spair
-salesperson: The turn around time is one day.
+warriors: The turn around time is one day.
 
 customer: I have a 2022 Honda Pilot. I would like to know if you guys can paint the rims black.
-salesperson: We can paint your rims black.
+warriors: We can paint your rims black.
 
 customer: Need a rim ASAP I’m the morning
-salesperson: We don’t sell rims but if you need a repair we can handle that for you.
+warriors: We don’t sell rims but if you need a repair we can handle that for you.
 
 customer: I have a hairline crack on my rim and lose air on the wheel within 8 hours. How much will it cost to fix?
-salesperson: The cost would be $125 dollars.
+warriors: The cost would be $125 dollars.
 
 customer: How much would it cose to fix the wheels that are bent on a 2014 bmw 328Xi?
-salesperson: It would be $125 dollars per rim. The total for both rims would be $250 dollars.
+warriors: It would be $125 dollars per rim. The total for both rims would be $250 dollars.
 
 customer: Is it possible can I get an appointment to fix a curb rash rim for a 2021 Acura TLX?
-salesperson: We do not do appointments but you are more than welcome to stop by Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM.
+warriors: We do not do appointments but you are more than welcome to stop by Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM.
 
 customer: I would like an estimate on a rim repair on 1 rim that has curb damage.
-salesperson: What type of car is it for and what is the color?
+warriors: What type of car is it for and what is the color?
 
 customer: Hi, do you guys do autoflex or powdercoating in gloss black? I have 20” rims on my car that i would like to get done. How much and what is availability like?
-salesperson: We do powder coat. The cost would be $800 for all four rims and we are open Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM.
+warriors: We do powder coat. The cost would be $800 for all four rims and we are open Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM.
 
 customer: I would like to paint all of my rims do I have to make an appointment?
-salesperson: You do not have to make an appointment. When you bring the car to us we will take a look and give you a price on the spot.
+warriors: You do not have to make an appointment. When you bring the car to us we will take a look and give you a price on the spot.
 
 customer: I hit a pothole and bent my rim. I am looking to have it repaired and would like to know what your repair process is.
-salesperson: We fixed bent rims. Bring it in as soon as possible so we can take a look at it.
+warriors: We fixed bent rims. Bring it in as soon as possible so we can take a look at it.
 
 customer: I have a set of wheels that I would like fixed. I have curb damage and I would like them painted gun metal grey
-salesperson: To fix all four rims would be $800 dollars.
+warriors: To fix all four rims would be $800 dollars.
 
 customer: Hi, how much would it be to repair a 3 to 4 inch curb rash mark for a 2021 NiSentra
-salesperson: For one rim it would be $150 dollars.
+warriors: For one rim it would be $150 dollars.
 
 customer: I have one wheel that I think is bent inside. Can you tell me how much it wo
-salesperson: To fix the bend it would be $125 dollars.
+warriors: To fix the bend it would be $125 dollars.
 
 customer: Can I receive a quote for a rim repair? I have picture available.
-salesperson: Send me the picture whenever you get the chance.
+warriors: Send me the picture whenever you get the chance.
 
 customer: Hey, how much would it be to paint 5, 18" wheels black? I saw your ad on xclusive tints Instagram
-salesperson: To paint all four rims black would be $700.
+warriors: To paint all four rims black would be $700.
 
 customer: I have curb rash damage on all four wheels. I would like to bring my car by for a repair estimate.
-salesperson: Bring it in as soon as possible and we can provide you an estimate.
+warriors: Bring it in as soon as possible and we can provide you an estimate.
 
 customer: Hi, I have two rims that I would like repaired.
-salesperson: Sure, we will be happy to help. Can you bring it in this week?
+warriors: Sure, we will be happy to help. Can you bring it in this week?
 
 customer: How much does it cost to powder coat rims?
-salesperson: Well we charge different prices for different sizes, colors, and for the type of car. In that case, can you send me the model of the car, the color you want, and are they cracked or bent?
+warriors: Well we charge different prices for different sizes, colors, and for the type of car. In that case, can you send me the model of the car, the color you want, and are they cracked or bent?
 customer: Alfa Romeo Giulia. I would like it painted glossy black and they have no defects.
-salesperson: $135 dollars per wheel. To do all four it would be $540 dollars.
+warriors: $135 dollars per wheel. To do all four it would be $540 dollars.
 
 customer: I have a 2018 Charger SRT, I bent the rim badly. Please text me so I can set appointment.
-salesperson: We do not do appointments. You can stop by any time Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM. We will take care of you.
+warriors: We do not do appointments. You can stop by any time Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM. We will take care of you.
 
 customer: I am looking to fix 3 rims for a Range Rover that have some scratches. Please let me know how much to fix it and when can I bring it in for service.
-salesperson: For all three it would be $525 dollars total. We do first come first serve. We are open Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM. I would recommend bringing the car in at 8 AM and we would need 1 or 2 days with the car.
+warriors: For all three it would be $525 dollars total. We do first come first serve. We are open Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM. I would recommend bringing the car in at 8 AM and we would need 1 or 2 days with the car.
 
 customer: I am looking to fix 1 or 2 bent rims on my 2017 jeep grand cherokee and I was wondering the price and when can I come in to repair them.
-salesperson: The price for a bent rim is $125 dollars. So for two it would be $250. We do first come first serve and are open Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM. I recommend coming at 8 A.M. and giving us a full day to work on the vehicle.
+warriors: The price for a bent rim is $125 dollars. So for two it would be $250. We do first come first serve and are open Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM. I recommend coming at 8 A.M. and giving us a full day to work on the vehicle.
 
 customer: 2019 FORD FUSION 18 INCHES WHEELS
 FRONT DRIVER SIDE BENT , NEEDS REPAIR AND POSSIBLY POLISH ALL WHEELS SAME ORIGINAL COLOR
-salesperson: Please bring it in as soon as possible so we can take a look. We are open Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM. We can discuss pricing once you arrive with the wheel.
+warriors: Please bring it in as soon as possible so we can take a look. We are open Monday to Friday 8AM until 6PM and Saturday 8AM until 2PM. We can discuss pricing once you arrive with the wheel.
 
 customer: How much cost to weld a rim ?
-salesperson: $125 dollars for one crack and an additional $25 for any other crack we find.
+warriors: $125 dollars for one crack and an additional $25 for any other crack we find.
 
 customer: One of my stock rims has a crack on the well...  it's slowly leaking air...    can you guys repair? If so how much?    Also might be interested in powder coating or paints all rims
-salesperson: We do fix cracked rims for $125-$150 depending on the damages. To powder coat all 4 would be $200 for each wheel( Black, Silver, Grey) and special colors are $275 dollars each.
+warriors: We do fix cracked rims for $125-$150 depending on the damages. To powder coat all 4 would be $200 for each wheel( Black, Silver, Grey) and special colors are $275 dollars each.
 
 customer: Hi I have a 2012 Ford F150 and need the rims paint black. Can you give me an estimate?
-salesperson: It would be about $175 dollars for each rim.
+warriors: It would be about $175 dollars for each rim.
 
 customer: can you repair rims and paint brakes?
-salesperson: Yes we can.
+warriors: Yes we can.
 
 customer: Hello just trying to get a quote to refinish a rim. it’s currently gloss black just want to repair some curb rash it’s a 20 in Niche mazzanti 8.5 wide
-salesperson: It’s about $150 - $175 dollars we need to see the wheel.
+warriors: It’s about $150 - $175 dollars we need to see the wheel.
 
 customer: Hi, Have 4 wheels which I need resurface. What's the time frame and cost, and when can drop off the rims?
-salesperson: 24-48 hour turnaround. It’s best to bring the wheel in so we can look at them and give an exact price.
+warriors: 24-48 hour turnaround. It’s best to bring the wheel in so we can look at them and give an exact price.
 
 customer: Hello, I have an 201818 Acura TLX. I'm looking to get all 4 wheels refinished / refurbished.
-salesperson: We can refinished / reburbish your wheels. Please bring them in for an estimate.
+warriors: We can refinished / reburbish your wheels. Please bring them in for an estimate.
 
 
 customer: Hey I have a wheel that’s curbed that I want to fix but the only issue is I have to go through wheel and tire insurance. Don’t worry I’ll pay myself and have them reimburse me they just need pics and an invoice. Please let me know. I don't remember what I sent you, but I need a wheel fixed. it's an OEM BMW wheel that has some curb rash. I can stop by next Saturday morning. My only issue is that I have wheel and tire insurance. I know nobody likes working with them since they don't pay but ill pay and have them reimburse me. I just need you guys to work with me to get the claim going. These are my only wheels and I need to know how long this would take.
-salesperson: 24 to 48 hrs to do all four. And we will do our best to work with you and your insurance.
+warriors: 24 to 48 hrs to do all four. And we will do our best to work with you and your insurance.
 
 customer: How long does it take to repair a scratched rim
-salesperson: 24-48 is the turnaround time.
+warriors: 24-48 is the turnaround time.
 
 customer: What is the price of a crack rim repair and how long does it take?
-salesperson: Depends on how many cracks we find when the tire is taken apart roughly $125 to $150 dollars.
+warriors: Depends on how many cracks we find when the tire is taken apart roughly $125 to $150 dollars.
 
 customer: How long does it usually take to repair wheel damage from curb and estimated cost of repair?
-salesperson: 1 or 2 days. The cost depends on the condition of the rims.
+warriors: 1 or 2 days. The cost depends on the condition of the rims.
 
 customer: Looking to fix cracked rim and recoat paint
-salesperson: Estimate $175-$225 dollars. depends on severity of rim.
+warriors: Estimate $175-$225 dollars. depends on severity of rim.
 
 customer: Hello, I have 1 slightly bent rim, wanted to know how much it would cost me?
-salesperson: If bent is in back of wheel estimate is $100 - $125 dollars. If it’s in the front the whole wheel gets reconditioned for about $175 - $225 dollars depends on severity of rim.
+warriors: If bent is in back of wheel estimate is $100 - $125 dollars. If it’s in the front the whole wheel gets reconditioned for about $175 - $225 dollars depends on severity of rim.
 
 customer: I am looking to get my weed powder coating gloss black. 2018 acura tlx. I would like to know what is the process, how long would it take, and how much for all four wheels?
-salesperson: Depends on the severity of the wheels normally $150 - $175 dollars for each wheel.
+warriors: Depends on the severity of the wheels normally $150 - $175 dollars for each wheel.
 customer: Does this include remount and re balance? By any chance you guys do calipers? Or paint them?
-salesperson: That does include remount and balance. Yes we do calipers also.
+warriors: That does include remount and balance. Yes we do calipers also.
 
 customer: Hello I would like to drop off 2 cracked aluminum rims for repair and refinishing. What would be the cost?
-salesperson: We need to see the severity of the wheels. Bring them in and we will take a look at them and quote you a price.
+warriors: We need to see the severity of the wheels. Bring them in and we will take a look at them and quote you a price.
 
 customer: I would like to make an appointment for curb rash repair on my 2017 STi.
-salesperson: Bring them in, we do not do appointments. First come first served.
+warriors: Bring them in, we do not do appointments. First come first served.
 
 customer: I have 2 bent rims that need to be fixed and wondering how much will it cost me.
-salesperson: Bent rims range between 100-150 depending on severity of the wheel.
+warriors: Bent rims range between 100-150 depending on severity of the wheel.
 
-customer: I would like to inquire about a quote for all four of my wheels to be refurbished to new wheels and a color change, and how long it will take. salesperson: If you bring the wheels down we can look at them and discuss what colors.
+customer: I would like to inquire about a quote for all four of my wheels to be refurbished to new wheels and a color change, and how long it will take. warriors: If you bring the wheels down we can look at them and discuss what colors.
